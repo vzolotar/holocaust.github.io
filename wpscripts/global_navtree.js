@@ -1,0 +1,141 @@
+var global_navtree = WpNavBar.readTree({
+"childArray" : [
+{   'sDescription':'Strona główna',
+'sTitle':'Strona główna',
+'bIsWebPath':true,
+'sUrl':'index.html',
+'sTarget':'_self'
+},
+{   'sDescription':'Wstęp',
+'sTitle':'Wstęp',
+'bIsWebPath':true,
+'sUrl':'wstep.html',
+'sTarget':'_self'
+},
+{   'sDescription':'Ludność żydowska na Podlasiu',
+'sTitle':'Ludność żydowska na Podlasiu',
+'bIsWebPath':true,
+'sUrl':'ludnosc-zydowska-na-podlasiu.html',
+'sTarget':'_self'
+},
+{   'sDescription':'Osadnictwo i organizacja życia',
+'sTitle':'Osadnictwo i organizacja życia',
+'bIsWebPath':true,
+'sUrl':'Osadnictwo-i-organizacja-zycia.html',
+'sTarget':'_self'
+},
+{   'sDescription':'Aktywność gospodarcza',
+'sTitle':'Aktywność gospodarcza',
+'bIsWebPath':true,
+'sUrl':'Aktywnosc-gospodarcza.html',
+'sTarget':'_self'
+},
+{   'sDescription':'Życie społeczno – polityczne',
+'sTitle':'Życie społeczno - polityczne',
+'bIsWebPath':true,
+'sUrl':'Zycie-spoleczno-polityczne.html',
+'sTarget':'_self'
+},
+{   'sDescription':'Hitlerowski system okupacyjny',
+'sTitle':'Hitlerowski system okupacyjny',
+'bIsWebPath':true,
+'sUrl':'Hitlerowski-system-okupacyjny.html',
+'sTarget':'_self'
+},
+{   'sDescription':'Działania wojenne',
+'sTitle':'Działania wojenne',
+'bIsWebPath':true,
+'sUrl':'Dzialania-wojenne.html',
+'sTarget':'_self'
+},
+{   'sDescription':'Administracja cywilna',
+'sTitle':'Administracja cywilna',
+'bIsWebPath':true,
+'sUrl':'Administracja-cywilna.html',
+'sTarget':'_self'
+},
+{   'sDescription':'Policja',
+'sTitle':'Policja',
+'bIsWebPath':true,
+'sUrl':'Policja.html',
+'sTarget':'_self'
+},
+{   'sDescription':'Wehrmacht',
+'sTitle':'Wehrmacht',
+'bIsWebPath':true,
+'sUrl':'Wehrmacht.html',
+'sTarget':'_self'
+},
+{   'sDescription':'Zagłada Żydów na Podlasiu, Holocaust',
+'sTitle':'Zagłada Żydów na Podlasiu, Holocaust',
+'bIsWebPath':true,
+'sUrl':'Zaglada-Zydow-na-Podlasiu.html',
+'sTarget':'_self'
+},
+{   'sDescription':'Getta',
+'sTitle':'Getta',
+'bIsWebPath':true,
+'sUrl':'Getta.html',
+'sTarget':'_self'
+},
+{   'sDescription':'Działania eksterminacyjne batalionu policyjnego 101',
+'sTitle':'Działania eksterminacyjne batalionu policyjnego 101',
+'bIsWebPath':true,
+'sUrl':'Batalion-101.html',
+'sTarget':'_self'
+},
+{   'sDescription':'Obozy pracy',
+'sTitle':'Obozy pracy',
+'bIsWebPath':true,
+'sUrl':'Obozy-pracy.html',
+'sTarget':'_self'
+},
+{   'sDescription':'Egzekucje',
+'sTitle':'Egzekucje',
+'bIsWebPath':true,
+'sUrl':'Egzekucje.html',
+'sTarget':'_self'
+},
+{   'sDescription':'Zakończenie',
+'sTitle':'Zakończenie',
+'bIsWebPath':true,
+'sUrl':'Zakonczenie.html',
+'sTarget':'_self'
+},
+{   'sDescription':'Bibliografia',
+'sTitle':'Bibliografia',
+'bIsWebPath':true,
+'sUrl':'Bibliografia.html',
+'sTarget':'_self'
+},
+{   'sDescription':'Spis zdjęć i map',
+'sTitle':'Spis zdjęć i map',
+'bIsWebPath':true,
+'sUrl':'Spis-zdjec-i-map.html',
+'sTarget':'_self'
+},
+{   'sDescription':'Stare zdjęcia',
+'sTitle':'Stare zdjęcia',
+'bIsWebPath':true,
+'sUrl':'Stare-Zdjecia.html',
+'sTarget':'_self'
+},
+{   'sDescription':'Napisz do nas',
+'sTitle':'Napisz do nas',
+'bIsWebPath':true,
+'sUrl':'feedback.html',
+'sTarget':'_self'
+},
+{   'sDescription':'Wszystkie pola formularza powinny być wypełnione',
+'sTitle':'Napisz do nas',
+'bIsWebPath':true,
+'sUrl':'feedbackerr.htm',
+'sTarget':'_self'
+},
+{   'sDescription':'Dziękujemy za poświęcenie czasu na skontaktowanie się z name. Twoja wiadomość została pomyślnie wysłana. ',
+'sTitle':'Napisz do nas',
+'bIsWebPath':true,
+'sUrl':'thankyou.htm',
+'sTarget':'_self'
+}]
+});
