@@ -3,3 +3,4 @@
 *.css linguist-detectable=false
 *.htm linguist-detectable=false
 *.html linguist-detectable=false
+wpscripts/*.js linguist-detectable=false
